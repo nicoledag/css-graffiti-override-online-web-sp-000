@@ -24,7 +24,7 @@ body #wall #tag-4 {
   display: none;
 }
 
-#wall .parent #tag-5.slick {
+body #wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: none;
