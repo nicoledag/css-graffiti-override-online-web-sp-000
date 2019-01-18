@@ -12,13 +12,13 @@ body #wall #tag-2 {
   display: none;
 }
 
-body #wall #tag-3.slick {
+body div#wall #tag-3.slick {
   background: url(../images/tag-3.png) no-repeat;
   z-index: 5;
   display: none;
 }
 
-#wall #tag-4 {
+body #wall #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
